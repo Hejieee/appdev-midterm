@@ -761,7 +761,7 @@ body {
 
 .hover\:text-strongCyan:hover {
   --tw-text-opacity: 1;
-  color: rgb(47, 79, 79 / var(--tw-text-opacity));
+  background-color: hsl(197, 12%, 32%) / var(--tw-text-opacity));
 }
 
 .hover\:opacity-80:hover {
