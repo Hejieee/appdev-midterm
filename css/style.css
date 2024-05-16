@@ -724,7 +724,7 @@ h5 {
   font-size: 1.25rem;
   line-height: 1.75rem;
   --tw-text-opacity: 1;
-  text-color: black;
+  color: #4B0082;
 }
 
 @media (min-width: 768px) {
